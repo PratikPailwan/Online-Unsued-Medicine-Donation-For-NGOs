@@ -1,5 +1,5 @@
 # Online-Unsued-Medicine-Donation-For-NGOs
-This project, created with HTML, CSS, JS, and Bootstrap, focuses on donating unused medicines to those in need.
+This project, created with HTML, CSS, JS, My SQL and Bootstrap, focuses on donating unused medicines to those in need.
 
 The application facilitates the donation process, allowing users to contribute their unused medicines to an NGO.
 
