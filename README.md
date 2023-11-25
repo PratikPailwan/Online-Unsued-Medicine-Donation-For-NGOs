@@ -1,4 +1,20 @@
 # Online-Unsued-Medicine-Donation-For-NGOs
-This is a project built using HTML, CSS, JS and Bootstrap.
-This project aims to donate medicines which are unused. The unused medicine can be donated for further utilization by a needy person. This application helps the user to donate unused medicines to NGO. In this system there are three entity namely, Admin, NGO and Member. Admin will login and manage members by deleting and blocking the users providing improper or expired medicines. Admin also has authority to approve the appointment requested by NGO.  Admin has monthly report of medicines which has been donated. NGO can register and login using credentials. They can raise a request of appointment which will furthermore approved and schedule by admin. NGO manages the stock which helps to maintain the record of the available medicine. In case of security NGO can also change their password. Members can register and login using credentials. They can donate medicine by providing medicines detail and raising request, further it will be approved by admin, they will schedule the donating date. Members can also check their previous data of medicine transactions.
-Need to install Bootstrap,bootstrap-social, font awesome before running this project.
+This project, created with HTML, CSS, JS, and Bootstrap, focuses on donating unused medicines to those in need.
+
+The application facilitates the donation process, allowing users to contribute their unused medicines to an NGO.
+
+The system involves three entities: Admin, NGO, and Member.
+
+The Admin, upon login, manages members by handling improper or expired medicine donations, including the ability to delete or block users.
+
+Admin also approves appointment requests made by NGOs and maintains a monthly report of donated medicines.
+
+NGOs can register and log in using credentials, enabling them to request appointments that are approved and scheduled by the admin.
+
+NGOs manage their medicine stock, ensuring a record of available medicines, and can enhance security by changing their password.
+
+Members can register and log in using their credentials, donating medicines by providing details and raising a request, which is then approved and scheduled by the admin.
+
+Members can also review their past transactions, checking the details of previously donated medicines.
+
+Before running this project, it is necessary to install Bootstrap, bootstrap-social, and font awesome.
